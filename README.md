@@ -1,5 +1,5 @@
 # LSTMusix
-Building a creative machine with this Long Short Term Memory (LSTM) Network. It's trained on stringified MIDI files and reproduces the song ("Für Elise" ind this example) with various diversity-factors.
+Building a creative machine with this Long Short Term Memory (LSTM) Network. It's trained on stringified MIDI files and reproduces the song ("Für Elise" in this example) with various diversity-factors.
 
 Look up the already converted and back-mapped example outputfile "LSTM_output_song.mp3" 
 
